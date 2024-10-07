@@ -36,52 +36,52 @@ const app ={
             music: './music/06. Chỉ Một Đêm Nữa Thôi - RPT MCK ( ft. tlinh ) - - 99_ - the album.mp3'
         },
         {
-            img: '../music_play/asset/img/CTCHT.jfif',
+            img: './asset/img/CTCHT.jfif',
             title: 'Chúng Ta Của Hiện Tại',
             author: 'Sơn Tùng MTP',
-            music: '../music_play/music/Chúng Ta Của Hiện Tại.mp3'
+            music: './music/Chúng Ta Của Hiện Tại.mp3'
         },
         {
-            img: '../music_play/asset/img/exhateme1.jpg',
+            img: './asset/img/exhateme1.jpg',
             title: 'Ex Hate Me (part 2)',
             author: 'B Ray ft AMEE',
-            music: '../music_play/music/Ex\'s Hate Me - B Ray x Masew (Ft AMEE) - Official MV.mp3'
+            music: './music/Ex\'s Hate Me - B Ray x Masew (Ft AMEE) - Official MV.mp3'
         },
         {
-            img: '../music_play/asset/img/exhateme.jpg',
+            img: './asset/img/exhateme.jpg',
             title: 'Ex Hate Me',
             author: 'B Ray ft AMEE',
-            music: '../music_play/music/AMEE x B RAY - Exs Hate Me (Part 2) - Lyric Video (from album dreAMEE).mp3'
+            music: './music/AMEE x B RAY - Exs Hate Me (Part 2) - Lyric Video (from album dreAMEE).mp3'
         },
         {
-            img: '../music_play/asset/img/hungdao.jpg',
+            img: './asset/img/hungdao.jpg',
             title: 'Họp Đoàn - 60 năm Hưng Đạo',
             author: 'Thanh Niên Hưng Đạo',
-            music: '../music_play/music/HỌP ĐOÀN - TRẠI KỶ NIỆM 60 NĂM THANH NIÊN HƯNG ĐẠO.mp3'
+            music: './music/HỌP ĐOÀN - TRẠI KỶ NIỆM 60 NĂM THANH NIÊN HƯNG ĐẠO.mp3'
         },
         {
-            img: '../music_play/asset/img/haytraochoanh.jfif',
+            img: './asset/img/haytraochoanh.jfif',
             title: 'Đừng làm trái tim anh đau',
             author: 'Sơn Tùng MTP',
-            music: '../music_play/music/SƠN TÙNG M-TP - HÃY TRAO CHO ANH ft. Snoop Dogg - Official MV.mp3'
+            music: './music/SƠN TÙNG M-TP - HÃY TRAO CHO ANH ft. Snoop Dogg - Official MV.mp3'
         },
         {
-            img: '../music_play/asset/img/leluuly.jfif',
+            img: './asset/img/leluuly.jfif',
             title: 'Lệ Lưu Ly',
             author: 'Vũ Phụng Tiên',
-            music: '../music_play/music/LỆ LƯU LY - VŨ PHỤNG TIÊN x DT TẬP RAP x DRUM7 - OFFICIAL MUSIC VIDEO.mp3'
+            music: './music/LỆ LƯU LY - VŨ PHỤNG TIÊN x DT TẬP RAP x DRUM7 - OFFICIAL MUSIC VIDEO.mp3'
         },
         {
-            img: '../music_play/asset/img/noinaycoanh.jfif',
+            img: './asset/img/noinaycoanh.jfif',
             title: 'Nơi Này Có Anh',
             author: 'Sơn Tùng MTP',
-            music: '../music_play/music/NƠI NÀY CÓ ANH - OFFICIAL MUSIC VIDEO - SƠN TÙNG M-TP.mp3'
+            music: './music/NƠI NÀY CÓ ANH - OFFICIAL MUSIC VIDEO - SƠN TÙNG M-TP.mp3'
         },
         {
-            img: '../music_play/asset/img/taivisao.jfif',
+            img: './asset/img/taivisao.jfif',
             title: 'Tại Vì Sao?',
             author: 'RPT MCK',
-            music: '../music_play/music/RPT MCK - TẠI VÌ SAO - Official Music Video.mp3'
+            music: './music/RPT MCK - TẠI VÌ SAO - Official Music Video.mp3'
         },
       
 
